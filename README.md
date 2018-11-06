@@ -17,7 +17,7 @@ With this data we have the necessary to run the analysis.
 
 Repository files description
 ======
-`ADM_HW2.ipynb`	
+`Main_pipeline.ipynb`	
 Main file with the code to perform the analisys
 
 `drop_off_map.html`
